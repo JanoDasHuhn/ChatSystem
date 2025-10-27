@@ -1,4 +1,0 @@
-public interface GUI extends UserInterface{
-    /*hier noch Methoden von UserInterface */
-    void openWindow();
-}

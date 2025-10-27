@@ -1,5 +1,6 @@
+package userInterface;
 
-import UserProfile.UserProfile;
+import userProfile.UserProfile;
 
 public interface UserInterface {
     void setSessionListener(SessionListener listener);

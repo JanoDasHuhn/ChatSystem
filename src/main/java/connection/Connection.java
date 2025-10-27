@@ -1,3 +1,5 @@
+package connection;
+
 public interface Connection{
     void connect (String host, int port) throws ConnectionException;
     boolean isConnected();
